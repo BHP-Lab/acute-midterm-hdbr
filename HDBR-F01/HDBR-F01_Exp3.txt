@@ -1,0 +1,59 @@
+Number of Subjects	1
+
+
+ID number	HDBRF01
+Last name	
+First name(s)	
+Sex	Female
+Date of birth	3/16/2000
+Height	162.50	cm
+Weight	57.15	kg
+Memo	
+InternalControl	0
+
+****************** CPET GENERAL ********************
+21
+Date	Time		Protocol	Comments		Height	Weight	BSA	Age		AmbPress	AmbTemp	AmbHum		FEV1	FVC	PEF	MEF75	MEF50	MEF25	FET	FEV1%	MVV		Ve-VCO2slp	
+						cm	kg	m2	Year		mmHg	dec. C	%		l	l	l/s	l/s	l/s	l/s	s	%	l/min			
+
+****************** CPET Min ************************
+56
+Date	Time		LoadMin	HRMin	Resp.Freq.Min	VeMin	VCO2Min	VO2Min	RMin	VO2/HRMin	FO2etMin	FCO2etMin	Ve/VCO2Min	Ve/VO2Min	SpO2Min	VO2/kgMin	VO2/BSAMin	FiCO2Min	FiO2Min	VaMin	VtMin	VdMin	SpeedMin	SlopeMin	TimeMin	VO2-loadslpMin	CO-VO2slpMin	BR%Min		RB-HRMin	RB-VLMin	RB-SpO2Min	RB-VO2Min	RB-PBFMin	RB-HbMin	RB-SYSMin	RB-DIAMin	RB-MAPMin	RB-LoadMin	RB-SpeedMin	RB-SlopeMin	RB-Bag Vol.Min	RB-CVPMin	RB-COMin	RB-SvO2Min	RB-ShuntMin	RB-SVRMin	RB-CIMin	RB-SVMin	RB-SIMin	RB-A-V O2 diffMin	RB-VO2/kgMin	RB-VO2/BSAMin	RB-SVRIMin	RB-CPOMin	RB-CPIMin		PredCOMin		
+			watts	bpm	/min	l/min	l/min	l/min		ml	%	%			%	ml/min/kg	ml/min/m2	%	%	l/min	l	l	kmh	%	min	ml/min/watt		%		bpm	l	%	l/min	l/min	g/dl	mmHg	mmHg	mmHg	Watt	kmh	%	l		l/min	%	%	mmHg/(l/min)	l/min/m2	ml	ml/m2	%	ml/min/kg	ml/min/m2	mmHg/(l/min)/m2	Watt	watt/m2		l/min		
+
+****************** CPET AT *************************
+56
+Date	Time		LoadAT	HRAT	Resp.Freq.AT	VeAT	VCO2AT	VO2AT	RAT	VO2/HRAT	FO2etAT	FCO2etAT	Ve/VCO2AT	Ve/VO2AT	SpO2AT	VO2/kgAT	VO2/BSAAT	FiCO2AT	FiO2AT	VaAT	VtAT	VdAT	SpeedAT	SlopeAT	TimeAT	VO2-loadslpAT	CO-VO2slpAT	BR%AT		RB-HRAT	RB-VLAT	RB-SpO2AT	RB-VO2AT	RB-PBFAT	RB-HbAT	RB-SYSAT	RB-DIAAT	RB-MAPAT	RB-LoadAT	RB-SpeedAT	RB-SlopeAT	RB-Bag Vol.AT	RB-CVPAT	RB-COAT	RB-SvO2AT	RB-ShuntAT	RB-SVRAT	RB-CIAT	RB-SVAT	RB-SIAT	RB-A-V O2 diffAT	RB-VO2/kgAT	RB-VO2/BSAAT	RB-SVRIAT	RB-CPOAT	RB-CPIAT		PredCOAT		
+			watts	bpm	/min	l/min	l/min	l/min		ml	%	%			%	ml/min/kg	ml/min/m2	%	%	l/min	l	l	kmh	%	min	ml/min/watt		%		bpm	l	%	l/min	l/min	g/dl	mmHg	mmHg	mmHg	Watt	kmh	%	l		l/min	%	%	mmHg/(l/min)	l/min/m2	ml	ml/m2	%	ml/min/kg	ml/min/m2	mmHg/(l/min)/m2	Watt	watt/m2		l/min		
+
+****************** CPET Max ************************
+56
+Date	Time		LoadMax	HRMax	Resp.Freq.Max	VeMax	VCO2Max	VO2Max	RMax	VO2/HRMax	FO2etMax	FCO2etMax	Ve/VCO2Max	Ve/VO2Max	SpO2Max	VO2/kgMax	VO2/BSAMax	FiCO2Max	FiO2Max	VaMax	VtMax	VdMax	SpeedMax	SlopeMax	TimeMax	VO2-loadslpMax	CO-VO2slpMax	BR%Max		RB-HRMax	RB-VLMax	RB-SpO2Max	RB-VO2Max	RB-PBFMax	RB-HbMax	RB-SYSMax	RB-DIAMax	RB-MAPMax	RB-LoadMax	RB-SpeedMax	RB-SlopeMax	RB-Bag Vol.Max	RB-CVPMax	RB-COMax	RB-SvO2Max	RB-ShuntMax	RB-SVRMax	RB-CIMax	RB-SVMax	RB-SIMax	RB-A-V O2 diffMax	RB-VO2/kgMax	RB-VO2/BSAMax	RB-SVRIMax	RB-CPOMax	RB-CPIMax		PredCOMax		
+			watts	bpm	/min	l/min	l/min	l/min		ml	%	%			%	ml/min/kg	ml/min/m2	%	%	l/min	l	l	kmh	%	min	ml/min/watt		%		bpm	l	%	l/min	l/min	g/dl	mmHg	mmHg	mmHg	Watt	kmh	%	l		l/min	%	%	mmHg/(l/min)	l/min/m2	ml	ml/m2	%	ml/min/kg	ml/min/m2	mmHg/(l/min)/m2	Watt	watt/m2		l/min		
+
+****************** CPET RC *************************
+56
+Date	Time		LoadRC	HRRC	Resp.Freq.RC	VeRC	VCO2RC	VO2RC	RRC	VO2/HRRC	FO2etRC	FCO2etRC	Ve/VCO2RC	Ve/VO2RC	SpO2RC	VO2/kgRC	VO2/BSARC	FiCO2RC	FiO2RC	VaRC	VtRC	VdRC	SpeedRC	SlopeRC	TimeRC	VO2-loadslpRC	CO-VO2slpRC	BR%RC		RB-HRRC	RB-VLRC	RB-SpO2RC	RB-VO2RC	RB-PBFRC	RB-HbRC	RB-SYSRC	RB-DIARC	RB-MAPRC	RB-LoadRC	RB-SpeedRC	RB-SlopeRC	RB-Bag Vol.RC	RB-CVPRC	RB-CORC	RB-SvO2RC	RB-ShuntRC	RB-SVRRC	RB-CIRC	RB-SVRC	RB-SIRC	RB-A-V O2 diffRC	RB-VO2/kgRC	RB-VO2/BSARC	RB-SVRIRC	RB-CPORC	RB-CPIRC		PredCORC		
+			watts	bpm	/min	l/min	l/min	l/min		ml	%	%			%	ml/min/kg	ml/min/m2	%	%	l/min	l	l	kmh	%	min	ml/min/watt		%		bpm	l	%	l/min	l/min	g/dl	mmHg	mmHg	mmHg	Watt	kmh	%	l		l/min	%	%	mmHg/(l/min)	l/min/m2	ml	ml/m2	%	ml/min/kg	ml/min/m2	mmHg/(l/min)/m2	Watt	watt/m2		l/min		
+
+****************** RB Results **********************
+68
+Date	Time		Protocol	Comments			Height	Weight	BSA	Age		AmbPress	AmbTemp	AmbHum		HR	VL	SpO2	VO2	PBF	Hb	SYS	DIA	MAP	Load	Speed	Slope	Bag Vol.	CVP	CO	SvO2	Shunt	SVR	CI	SV	SI	A-V O2 diff	VO2/kg	VO2/BSA	SVRI	CPO	CPI	Ve	Va	Resp.Freq.	VCO2	VO2	HR	SpO2	Vd	FCO2et	FO2et	FICO2	FIO2	R	Vt	Ve/VO2	Ve/VCO2	VO2/kg	VO2/HR	BR%	VO2/BSA		FEV1	FVC	PEF	MEF75	MEF50	MEF25	FET	FEV1%	MVV			PredCO	
+							cm	kg	m2	Year		mmHg	dec. C	%		bpm	l	%	l/min	l/min	g/dl	mmHg	mmHg	mmHg	Watt	kmh	%	l		l/min	%	%	mmHg/(l/min)	l/min/m2	ml	ml/m2	%	ml/min/kg	ml/min/m2	mmHg/(l/min)/m2	Watt	watt/m2	l/min	l/min	/min	l/min	l/min	/min	%	l	%	%				l			ml/min/kg	ml	%	ml/min/m2		l	l	l/s	l/s	l/s	l/s	s	%	l/min			l/min	
+11/14/2022	12:16:29 PM		Single RB				162.500	57.150	1.607	22.000		753.000	22.900	32.000		122.000	2.318	96.000	0.124	2.660	0.000	- -	- -	- -	- -	0.000	- -	1.501	4.600	2.660	- -	- -	- -	1.656	21.807	13.572	- -	2.178	77.480	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -		- -	- -	- -	- -	- -	- -	- -	- -	- -			4.397	
+11/14/2022	12:26:16 PM		Single RB				162.500	57.150	1.607	22.000		753.000	22.900	32.000		95.000	1.915	98.000	0.097	3.897	0.000	- -	- -	- -	- -	0.000	- -	1.501	4.600	3.897	- -	- -	- -	2.426	41.025	25.532	- -	1.692	60.169	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -		- -	- -	- -	- -	- -	- -	- -	- -	- -			4.241	
+11/14/2022	12:35:29 PM		Single RB				162.500	57.150	1.607	22.000		753.000	22.900	32.000		86.000	2.017	98.000	0.084	3.801	0.000	- -	- -	- -	- -	0.000	- -	1.501	4.600	3.801	- -	- -	- -	2.365	44.195	27.504	- -	1.465	52.109	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -		- -	- -	- -	- -	- -	- -	- -	- -	- -			4.169	
+11/14/2022	12:45:22 PM		Single RB				162.500	57.150	1.607	22.000		753.000	22.900	32.000		88.000	2.146	97.000	0.117	4.359	0.000	- -	- -	- -	- -	0.000	- -	1.501	4.600	4.359	- -	- -	- -	2.713	49.534	30.827	- -	2.052	72.967	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -		- -	- -	- -	- -	- -	- -	- -	- -	- -			4.357	
+11/14/2022	12:55:33 PM		Single RB				162.500	57.150	1.607	22.000		753.000	22.900	32.000		83.000	2.069	98.000	0.046	3.696	0.000	- -	- -	- -	- -	0.000	- -	1.501	4.600	3.696	- -	- -	- -	2.300	44.535	27.716	- -	0.811	28.827	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -		- -	- -	- -	- -	- -	- -	- -	- -	- -			3.959	
+11/14/2022	1:05:25 PM		Single RB				162.500	57.150	1.607	22.000		753.000	22.900	32.000		85.000	2.042	97.000	0.101	4.142	0.000	- -	- -	- -	- -	0.000	- -	1.501	4.600	4.142	- -	- -	- -	2.578	48.729	30.326	- -	1.766	62.812	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -		- -	- -	- -	- -	- -	- -	- -	- -	- -			4.265	
+11/14/2022	1:15:29 PM		Single RB				162.500	57.150	1.607	22.000		753.000	22.900	32.000		81.000	1.937	98.000	0.126	4.774	0.000	- -	- -	- -	- -	0.000	- -	1.501	4.600	4.774	- -	- -	- -	2.971	58.943	36.683	- -	2.196	78.122	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -		- -	- -	- -	- -	- -	- -	- -	- -	- -			4.403	
+11/14/2022	1:26:17 PM		Single RB				162.500	57.150	1.607	22.000		753.000	22.900	32.000		94.000	1.986	93.000	0.116	3.254	0.000	- -	- -	- -	- -	0.000	- -	1.501	4.600	3.254	- -	- -	- -	2.025	34.622	21.547	- -	2.026	72.055	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -		- -	- -	- -	- -	- -	- -	- -	- -	- -			4.348	
+11/14/2022	1:35:36 PM		Single RB				162.500	57.150	1.607	22.000		753.000	22.900	32.000		109.000	2.069	97.000	0.080	2.820	0.000	- -	- -	- -	- -	0.000	- -	1.501	4.600	2.820	- -	- -	- -	1.755	25.874	16.103	- -	1.400	49.809	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -	- -		- -	- -	- -	- -	- -	- -	- -	- -	- -			4.148	
+
+****************** Spirometry Results **************
+19
+Date	Time		Comments		Height	Weight	BSA	Age		AmbPress	AmbTemp	AmbHum		FEV1	FVC	PEF	MEF75	MEF50	MEF25	FET	FEV1%	MVV			
+					cm	kg	m2	Year		mmHg	dec. C	%		l	l	l/s	l/s	l/s	l/s	s	%	l/min			
+
+
+

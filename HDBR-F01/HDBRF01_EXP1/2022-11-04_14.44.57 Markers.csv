@@ -1,0 +1,29 @@
+Time;Label
+270.254;User marker 1
+280.992;BraCal: begin auto
+312.633;ArmCuff: 116/74
+352.147;ArmCuff: 126/68
+396.200;BraCal: 121/71, Δ+16
+419.177;FlowCal: begin
+466.129;FlowCal: end
+467.158;FloCal: 66% (2.8 l/min)
+896.612;User marker 2
+905.189;BraCal: begin auto
+934.939;ArmCuff: 115/68
+963.956;ArmCuff: 111/69
+1118.026;BraCal: 113/68.5, Δ-1
+1212.698;FlowCal: begin
+1289.466;FlowCal: end
+1290.605;FloCal: 68% (3.2 l/min)
+1884.623;User marker 3
+1892.011;BraCal: begin auto
+1932.499;ArmCuff: 122/98
+1968.420;ArmCuff: 108/75
+1973.525;Cuff = Cuff2
+2024.810;BraCal: 115/86.5, Δ+18
+2132.152;FlowCal: begin
+2166.597;FlowCal: end
+2167.908;FloCal: 72% (2.9 l/min)
+2762.424;FlowCal: begin
+3011.378;FlowCal: end
+3012.407;FloCal: 88% (3.4 l/min)
