@@ -1,9 +1,0 @@
-NOVAScope : 20180614_A.V1.9.R5503
-Serial number : FNO200100427
-Hardware config : ECG, Respiration, SpO2, ArmCuff, AnalogIO, Basic
-
-Measurement;Reference;Age(yrs);Height(cm);Weight(kg);Gender;FlowCorrection(%);Procedure;Application
-"2022-10-31_12.25.05";;22;162;57;Female;102;;NovaScope
-
-Time(sec);SYS Arm(mmHg);MAP Arm(mmHg);DIA Arm(mmHg);Marker;Region;
-146.885;120;93;80;"User marker 1", "BraCal: begin auto", "ArmCuff: 120/80";;
